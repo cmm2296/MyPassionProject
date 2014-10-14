@@ -1,5 +1,30 @@
-body{
-	background-color: rgb(84,177,148);
-	text-align: center;
 
+body{
+	background-color: lavender;
+	} 
+li{
+	font-size: 30px;
+	font-family:arial;
+	text-align: center;
 }
+
+img{
+	margin: 0 auto;
+}
+
+.justify{
+	text-align: justify;
+	font-family: arial;
+	background-color: white;
+	font-size: 25px;
+	text-decoration: none;
+	width: 6in;
+	margin: 0 auto;
+}
+
+.bluetext {
+	color: blue;
+}
+
+
+
